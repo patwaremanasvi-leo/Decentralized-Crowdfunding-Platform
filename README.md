@@ -33,7 +33,7 @@ We envision this platform becoming the foundation for a new era of community-dri
 ### 🔒 **Automatic Fund Management**
 - Funds are automatically released to creators when goals are met
 - Guaranteed refunds if campaigns fail to reach their targets
-- Built-in escrow system protects all parties
+- Built-in escrow system protects all parties.
 
 ### 📊 **Transparency & Analytics**
 - View all campaign details including funding progress
