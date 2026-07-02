@@ -50,7 +50,7 @@ We envision this platform becoming the foundation for a new era of community-dri
 
 ### ⚡ **Smart Automation**
 - Time-based campaign management
-- Automatic goal achievement detection
+- Automatic goal acheivement detection
 - Event-driven notifications for all major actions
 
 ## Future Scope
