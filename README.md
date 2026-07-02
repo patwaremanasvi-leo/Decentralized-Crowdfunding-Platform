@@ -1,8 +1,10 @@
 # Decentralized Crowdfunding Platform
+## Last Updated
+July 2, 2026 — minor documentation update
 
 ## Project Description
 
-The Decentralized Crowdfunding Platform is a blockchain-based smart contract system that enables transparent, trustless fundraising campaigns. Built on Ethereum using Solidity, this platform allows project creators to launch crowdfunding campaigns while providing contributors with guaranteed refunds if funding goals are not met by the deadline.
+The Decentralized Crowdfunding Platform is a blockchain-based smart contract system that enables transparent, trustless fundraising campaigns. Built on Ethereum using Solidity, this platform allows project creators to launch crowdfunding campaigns while ensuring contributors with guaranteed refunds if funding goals are not met by the deadline.
 
 Unlike traditional crowdfunding platforms, this decentralized solution eliminates intermediaries, reduces fees, and ensures complete transparency through blockchain technology. All transactions, contributions, and fund distributions are recorded immutably on the blockchain, providing unprecedented accountability for both creators and contributors.
 
@@ -33,7 +35,7 @@ We envision this platform becoming the foundation for a new era of community-dri
 ### 🔒 **Automatic Fund Management**
 - Funds are automatically released to creators when goals are met
 - Guaranteed refunds if campaigns fail to reach their targets
-- Built-in escrow system protects all parties.
+- Built-in escrow system protects all parties
 
 ### 📊 **Transparency & Analytics**
 - View all campaign details including funding progress
@@ -44,6 +46,7 @@ We envision this platform becoming the foundation for a new era of community-dri
 - Platform fee mechanism (2.5% default)
 - Emergency controls for platform administration
 - Robust access controls and validation
+- Gas-efficient transaction structure for optimized user costs
 
 ### ⚡ **Smart Automation**
 - Time-based campaign management
